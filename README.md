@@ -6,7 +6,7 @@ This notebook contains all the code for the [course](https://www.packtpub.com/ap
 
 The sections are divided by folders. <br />
 
-<b>The topics that are covered are:</b> <br /><br /><br />
+<b>The topics that are covered are:</b> <br /><br />
 1.[UP AND RUNNING WITH PYTORCH](https://github.com/jibinmathew691993/Hands-on-NLP-with-PyTorch/tree/master/section1)<br />
 In   this   section,   you   setup   our   environment   for   PyTorch   and   learn   to   perform   some   basic   operations   with  PyTorch   and   build   quick   Neural   network   with   PyTorch   and   also   understand   why   Deep   Learning   is   a   useful  technique for NLP. <br /><br/>
 2.[DATA CLEANING AND PREPROCESSING FOR SENTIMENT ANALYSIS](https://github.com/jibinmathew691993/Hands-on-NLP-with-PyTorch/tree/master/section2)<br />
